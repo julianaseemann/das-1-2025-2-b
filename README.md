@@ -5,6 +5,8 @@
 📕 Livro Fundamentos da Arquitetura de Software: 
     "Architecture is about the important stuff. Whatever that is." – Ralph Johnson 
 
+    [Livro Eng Soft Moderna - Cap 7](https://engsoftmoderna.info/cap7.html)
+
 ### Introdução
 Aula 31/07
 
@@ -15,4 +17,4 @@ Abstração: Representação simplificada de uma entidade, permite que interagir
 
 "Em resumo, o primeiro objetivo de projeto de software é decompor um problema em partes menores. Além disso, deve ser possível implementar tais partes de forma independente."
 
-Separar o software em partes, o deixa mais fácil de entender e localizar suas partes, como por exemplo, em caso de outros desenvolvedores precisarem estar envolvidos na tarefa
+Separar o software em partes, o deixa mais fácil de entender e localizar suas partes, como por exemplo, em caso de outros desenvolvedores estarem envolvidos na tarefa
