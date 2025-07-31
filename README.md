@@ -5,7 +5,7 @@
 📕 Livro Fundamentos da Arquitetura de Software: 
     "Architecture is about the important stuff. Whatever that is." – Ralph Johnson 
 
-    [Livro Eng Soft Moderna - Cap 7](https://engsoftmoderna.info/cap7.html)
+    (https://engsoftmoderna.info/cap7.html)
 
 ### Introdução
 Aula 31/07
