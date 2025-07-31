@@ -20,3 +20,8 @@ Abstração: Representação simplificada de uma entidade, permite que interagir
 "Em resumo, o primeiro objetivo de projeto de software é decompor um problema em partes menores. Além disso, deve ser possível implementar tais partes de forma independente."
 
 Separar o software em partes, o deixa mais fácil de entender e localizar suas partes, como por exemplo, em caso de outros desenvolvedores estarem envolvidos na tarefa
+
+- Escolha do framework é fundaental
+
+- Ocultamento de Informação: Esconde atrás de uma API a inforção
+    Quem faz isso em orientação a objetos é a classe
