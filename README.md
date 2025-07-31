@@ -12,16 +12,34 @@
 ### Introdução
 Aula 31/07
 
-Abstração: Representação simplificada de uma entidade, permite que interagir e tirar proveito da entidade abstraída. Entender o problema real e representá-lo no código, uma solução de software que resolve.
+- Complexidade: Separar o software em partes, o deixa mais fácil de entender e localizar suas partes, como por exemplo, em caso de outros desenvolvedores estarem envolvidos na tarefa. Uma arquitetura em camadas particiona a complexidade envolvida no desenvolvimento de um sistema em componentes menores, as camadas
 
-- Software -> abstrai coisas complexas
-- API -> entidade, repositório, serviço, control
+    "Em resumo, o primeiro objetivo de projeto de software é decompor um problema em partes menores. Além disso, deve ser possível implementar tais partes de forma independente."
+  
+- Abstração: Representação simplificada de uma entidade, permite que interagir e tirar proveito da entidade abstraída. Entender o problema real e representá-lo no código, uma solução de software que resolve.
 
-"Em resumo, o primeiro objetivo de projeto de software é decompor um problema em partes menores. Além disso, deve ser possível implementar tais partes de forma independente."
+    Software -> abstrai coisas complexas
+    API -> entidade, repositório, serviço, control
+
+
 
 Separar o software em partes, o deixa mais fácil de entender e localizar suas partes, como por exemplo, em caso de outros desenvolvedores estarem envolvidos na tarefa
+
+- Padrão de Código
 
 - Escolha do framework é fundaental
 
 - Ocultamento de Informação: Esconde atrás de uma API a inforção
     Quem faz isso em orientação a objetos é a classe
+
+    desaclopar - dificil trocar
+    aclopamento
+
+
+
+complexidade
+abstração
+pq poo
+padrão de código
+freamwork
+ocultação de informação
